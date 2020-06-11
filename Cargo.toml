@@ -3,6 +3,3 @@ name = "algo2"
 version = "0.1.0"
 authors = ["bwty <whalelephant@users.noreply.github.com>"]
 edition = "2018"
-
-[dependencies]
-csv = "1.1"
