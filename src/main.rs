@@ -1,6 +1,7 @@
 mod scc;
 mod dijkstras;
 mod maintain_median;
+mod two_sum;
 use scc::scc;
 use std::thread;
 
@@ -20,4 +21,7 @@ fn main() {
 
     // week3
     maintain_median::median();
+
+    //  week 4
+    two_sum::total_sorted_arr();
 }
